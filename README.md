@@ -1,6 +1,6 @@
 Driver Drowsiness Detection
 
-Real-time system that monitors eye movement using Python (OpenCV + Dlib/MediaPipe).
+Real-time system that monitors eye movement using Python (OpenCV + Dlib){laptop camera}.
 Sends signal 1 (drowsy) or 0 (alert) to Arduino via serial.
 Arduino controls a DC motor and vibration motor for driver alert.
 
